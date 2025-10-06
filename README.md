@@ -16,4 +16,5 @@ The MNIST dataset is a collection of 70,000 handwritten grayscale images.
 **Division**
 
 Training set : Contains 60,000 images
+
 Test Set : Contains 10,000 images
