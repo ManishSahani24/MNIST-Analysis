@@ -18,3 +18,6 @@ The MNIST dataset is a collection of 70,000 handwritten grayscale images.
 Training set : Contains 60,000 images
 
 Test Set : Contains 10,000 images
+
+
+The dataset is large enough to be non-trivial but small enough to be easily downloaded and processed on a standard personal machine, making it very accessible.
